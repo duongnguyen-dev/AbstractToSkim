@@ -1,3 +1,3 @@
 [submodule "pubmed-rct"]
-	path = pubmed-rct
+	path = training/abstract_to_skim/datasets
 	url = https://github.com/Franck-Dernoncourt/pubmed-rct.git
